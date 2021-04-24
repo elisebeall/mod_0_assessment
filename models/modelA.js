@@ -1,4 +1,4 @@
-var airportObject = {
+var airport = {
   name: "Denver International Airport",
   airportCode: "DEN",
   yearOpened: 1995,
